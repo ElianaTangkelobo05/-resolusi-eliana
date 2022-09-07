@@ -1,0 +1,7 @@
+# -resolusi-eliana
+Repositori untuk menyimpan rancangan RPL kedepannya
+resolusi eliana
+- konsisten belajar html dan php
+- mengerjakan tugas instalisasi admin basdat (besok)
+- menerjakan tugas rpl (jumat)
+- mengerjkan tugas coding if-else python (jumat)
